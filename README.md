@@ -25,10 +25,6 @@ Built using the **Yii2 PHP framework** and **MySQL** database, the system offers
 - Institutions wanting a central platform to showcase student work  
 - Developers seeking an SEO-friendly content management example built with Yii2  
 
-## 🚀 Getting Started
-
-*Setup and installation instructions coming soon.*
-
 ## 📄 License
 
 MIT
