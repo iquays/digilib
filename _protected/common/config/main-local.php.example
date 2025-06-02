@@ -1,0 +1,24 @@
+<?php
+return [
+    'components' => [
+        'db' => [
+            'class' => 'yii\db\Connection',
+            'dsn' => 'mysql:host=localhost;dbname=your_database_name',
+            'username' => 'your_username',
+            'password' => 'your_password',
+            'charset' => 'utf8',
+            'enableSchemaCache' => true,
+            'schemaCacheDuration' => 60 * 60 * 24, //cached for 1 day
+            'enableQueryCache' => true,
+            'queryCacheDuration' => 60 * 60 * 24, //cached for 1 day
+        ],
+        'mailer' => [
+            'class' => 'yii\swiftmailer\Mailer',
+            'viewPath' => '@common/mail',
+            // send all mails to a file by default. You have to set
+            // 'useFileTransport' to false and configure a transport
+            // for the mailer to send real emails.
+            'useFileTransport' => true,
+        ],
+    ],
+];

@@ -1,0 +1,576 @@
+a:12:{s:6:"config";s:3225:"a:5:{s:10:"phpVersion";s:6:"7.0.16";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:20:"PENS Digital Library";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"utf-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.16";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:13:{s:23:"nenad/yii2-widgets-base";a:3:{s:4:"name";s:23:"nenad/yii2-widgets-base";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:6:"@nenad";s:61:"E:\!wwwroot\digilib\_protected\vendor/nenad/yii2-widgets-base";}}s:28:"nenad/yii2-password-strength";a:3:{s:4:"name";s:28:"nenad/yii2-password-strength";s:7:"version";s:7:"2.3.0.0";s:5:"alias";a:1:{s:23:"@nenad/passwordStrength";s:66:"E:\!wwwroot\digilib\_protected\vendor/nenad/yii2-password-strength";}}s:23:"mihaildev/yii2-ckeditor";a:3:{s:4:"name";s:23:"mihaildev/yii2-ckeditor";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:19:"@mihaildev/ckeditor";s:61:"E:\!wwwroot\digilib\_protected\vendor/mihaildev/yii2-ckeditor";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:62:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:64:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:56:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-debug";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:56:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-faker";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:66:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-swiftmailer/src";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:62:"E:\!wwwroot\digilib\_protected\vendor/rmrevin/yii2-fontawesome";}}s:23:"yiister/yii2-gentelella";a:3:{s:4:"name";s:23:"yiister/yii2-gentelella";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@yiister/gentelella";s:61:"E:\!wwwroot\digilib\_protected\vendor/yiister/yii2-gentelella";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:54:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-jui";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:58:"E:\!wwwroot\digilib\_protected\vendor/yiisoft/yii2-gii/src";}}s:24:"rmrevin/yii2-minify-view";a:3:{s:4:"name";s:24:"rmrevin/yii2-minify-view";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:19:"@rmrevin/yii/minify";s:62:"E:\!wwwroot\digilib\_protected\vendor/rmrevin/yii2-minify-view";}}}}";s:7:"request";s:4426:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:114:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36";s:6:"accept";s:85:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8";s:15:"accept-encoding";s:17:"gzip, deflate, br";s:15:"accept-language";s:32:"en-US,en;q=0.9,id;q=0.8,ms;q=0.7";s:6:"cookie";s:210:"_csrf=037cf6556da049c6658e31f8ae81acfa524c505954535e88b4bbb88e5c55fa2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22rVqeLJpv2F9-cg8axwwO2U7RVa9kOBZM%22%3B%7D; PHPSESSID=u8pr8m9o42ouevd0dbr0v58pa1";}s:15:"responseHeaders";a:9:{s:6:"Pragma";s:8:"no-cache";s:10:"Set-Cookie";a:2:{i:0;s:54:"PHPSESSID=u8pr8m9o42ouevd0dbr0v58pa1; path=/; HttpOnly";i:1;s:190:"_csrf=dbad029e79528996818cf3e7416ad358bdd5b95812159216c8ee5482fc02f895a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22rM8k_qiwDX_PTjKCEl2FwU5p7ccQOE8p%22%3B%7D; path=/; HttpOnly";}s:7:"Expires";s:29:"Wed, 25 Jul 2018 06:30:17 GMT";s:13:"Cache-Control";s:20:"public, max-age=7200";s:13:"Last-Modified";s:29:"Sun, 25 Mar 2018 00:00:00 GMT";s:12:"Content-Type";s:24:"text/html; charset=utf-8";s:11:"X-Debug-Tag";s:13:"5b57eec9b8053";s:16:"X-Debug-Duration";s:5:"2,350";s:12:"X-Debug-Link";s:45:"/digilib/debug/default/view?tag=5b57eec9b8053";}s:5:"route";s:17:"tugas-akhir/index";s:6:"action";s:56:"frontend\controllers\TugasAkhirController::actionIndex()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:35:{s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:114:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36";s:11:"HTTP_ACCEPT";s:85:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:20:"HTTP_ACCEPT_LANGUAGE";s:32:"en-US,en;q=0.9,id;q=0.8,ms;q=0.7";s:11:"HTTP_COOKIE";s:210:"_csrf=037cf6556da049c6658e31f8ae81acfa524c505954535e88b4bbb88e5c55fa2ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22rVqeLJpv2F9-cg8axwwO2U7RVa9kOBZM%22%3B%7D; PHPSESSID=u8pr8m9o42ouevd0dbr0v58pa1";s:4:"PATH";s:544:"C:\Program Files (x86)\Python36-32\Scripts\;C:\Program Files (x86)\Python36-32\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\php70;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Calibre2\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\PostgreSQL\10\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:62:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:21:"Apache/2.4.17 (Win32)";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:11:"E:/!wwwroot";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:11:"E:/!wwwroot";s:12:"SERVER_ADMIN";s:17:"admin@example.com";s:15:"SCRIPT_FILENAME";s:29:"E:/!wwwroot/digilib/index.php";s:11:"REMOTE_PORT";s:5:"62341";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:9:"/digilib/";s:11:"SCRIPT_NAME";s:18:"/digilib/index.php";s:8:"PHP_SELF";s:18:"/digilib/index.php";s:18:"REQUEST_TIME_FLOAT";d:1532489417.517;s:12:"REQUEST_TIME";i:1532489417;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:5:"_csrf";s:130:"037cf6556da049c6658e31f8ae81acfa524c505954535e88b4bbb88e5c55fa2ba:2:{i:0;s:5:"_csrf";i:1;s:32:"rVqeLJpv2F9-cg8axwwO2U7RVa9kOBZM";}";s:9:"PHPSESSID";s:26:"u8pr8m9o42ouevd0dbr0v58pa1";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}";s:3:"log";s:21844:"a:1:{s:8:"messages";a:40:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532489417.643935;i:4;a:0:{}i:5;i:845088;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532489417.643976;i:4;a:0:{}i:5;i:846048;}i:2;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=digilib";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1532489417.673867;i:4;a:0:{}i:5;i:1067456;}i:5;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.7243421;i:4;a:0:{}i:5;i:1074808;}i:8;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1532489417.7518401;i:4;a:0:{}i:5;i:1069184;}i:9;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532489417.7535419;i:4;a:0:{}i:5;i:1133928;}i:10;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532489417.7808559;i:4;a:0:{}i:5;i:1170192;}i:11;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532489417.7814951;i:4;a:0:{}i:5;i:1174968;}i:25;a:6:{i:0;s:19:"Route requested: ''";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1532489417.7871051;i:4;a:0:{}i:5;i:1199592;}i:26;a:6:{i:0;s:31:"Route to run: tugas-akhir/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1532489417.7881351;i:4;a:0:{}i:5;i:1212776;}i:27;a:6:{i:0;s:41:"SELECT MAX(updated_at) FROM `tugas_akhir`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.789572;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:29;s:8:"function";s:3:"max";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}}i:5;i:1231256;}i:30;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.814698;i:4;a:0:{}i:5;i:1240664;}i:33;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8246231;i:4;a:0:{}i:5;i:1253424;}i:36;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8392451;i:4;a:0:{}i:5;i:1266824;}i:39;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8498371;i:4;a:0:{}i:5;i:1273240;}i:42;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490857) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489417.857724;i:4;a:0:{}i:5;i:1272904;}i:45;a:6:{i:0;s:14:"Session frozen";i:1;i:4;i:2;s:23:"yii\web\Session::freeze";i:3;d:1532489417.8657911;i:4;a:0:{}i:5;i:1268424;}i:46;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8659439;i:4;a:0:{}i:5;i:1275552;}i:49;a:6:{i:0;s:16:"Session unfrozen";i:1;i:4;i:2;s:25:"yii\web\Session::unfreeze";i:3;d:1532489417.8663499;i:4;a:0:{}i:5;i:1270544;}i:50;a:6:{i:0;s:72:"Running action: frontend\controllers\TugasAkhirController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1532489417.866478;i:4;a:0:{}i:5;i:1268400;}i:51;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tugas_akhir`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8888619;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1426128;}i:54;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tugas_akhir' AND kcu.table_name = 'tugas_akhir'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8919671;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1463648;}i:57;a:6:{i:0;s:302:"SELECT DISTINCT `tahun` FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `tahun` DESC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.9312639;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1682384;}i:60;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2015') `c`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.154398;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1698880;}i:63;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2014') `c`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.303612;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1704016;}i:66;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2013') `c`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.514096;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1711184;}i:69;a:6:{i:0;s:88:"Rendering view file: E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1532489418.646122;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1706744;}i:70;a:6:{i:0;s:315:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015') `c`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.656409;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:97;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1790880;}i:73;a:6:{i:0;s:324:"SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `created_at` DESC LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.307863;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1795560;}i:76;a:6:{i:0;s:321:"SELECT * FROM `mahasiswa` WHERE `nrp` IN ('7611040037', '1310125022', '1303121030', '1303121057', '1303121046', '1303121024', '1303121037', '4103121051', '1303121059', '1210135030', '1303121039', '1303121007', '1210125014', '1210125002', '1303121051', '1303121041', '1303121035', '1303121008', '7610040008', '1303121025')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8048029;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2070008;}i:79;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `mahasiswa`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.809006;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2081264;}i:82;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mahasiswa' AND kcu.table_name = 'mahasiswa'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8100619;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2093072;}i:85;a:6:{i:0;s:172:"SELECT * FROM `dibimbing` WHERE `id_tugas_akhir` IN (5471, 5470, 5468, 5469, 5467, 5465, 5466, 5463, 5464, 5460, 5461, 5462, 5459, 5458, 5456, 5457, 5454, 5455, 5450, 5451)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8220689;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2121800;}i:88;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `dibimbing`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.845844;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2138680;}i:91;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dibimbing' AND kcu.table_name = 'dibimbing'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8470521;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2149464;}i:94;a:6:{i:0;s:575:"SELECT * FROM `dosen` WHERE `nip` IN ('196608121993031005', '196012181988112001', '196407131989031005', '198905082015041001', '196405221991031003', '196207231991031002', '197912232003121002', '196106011987011001', '195701261990032001', '198311222010121004', '196602271994031001', '196511091991031006', '196702271994031001', '197409202002121001', '198902262015041003', '197210241999032001', '196811091991031012', '197903062002121002', '197708262008121002', '196411191988031001', '196404041989032002', '900258', '196101071990031001', '197404102008011014', '198903262015041001')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8603539;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2193704;}i:97;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `dosen`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8626029;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2204040;}i:100;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dosen' AND kcu.table_name = 'dosen'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.863627;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2215048;}i:103;a:6:{i:0;s:83:"Rendering view file: E:\!wwwroot\digilib\_protected\frontend\views\layouts\main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1532489419.8795431;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2181112;}i:104;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490859) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489419.9637251;i:4;a:0:{}i:5;i:2015952;}}}";s:9:"profiling";s:38842:"a:3:{s:6:"memory";i:2436984;s:4:"time";d:2.3589439392089844;s:8:"messages";a:54:{i:3;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=digilib";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1532489417.6739659;i:4;a:0:{}i:5;i:1067728;}i:4;a:6:{i:0;s:58:"Opening DB connection: mysql:host=localhost;dbname=digilib";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1532489417.7242441;i:4;a:0:{}i:5;i:1077096;}i:6;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.7244451;i:4;a:0:{}i:5;i:1075160;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.751754;i:4;a:0:{}i:5;i:1075480;}i:28;a:6:{i:0;s:41:"SELECT MAX(updated_at) FROM `tugas_akhir`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.7896349;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:29;s:8:"function";s:3:"max";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}}i:5;i:1232312;}i:29;a:6:{i:0;s:41:"SELECT MAX(updated_at) FROM `tugas_akhir`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.799787;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:29;s:8:"function";s:3:"max";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}}i:5;i:1233376;}i:31;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8147759;i:4;a:0:{}i:5;i:1241008;}i:32;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.824048;i:4;a:0:{}i:5;i:1244088;}i:34;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.824661;i:4;a:0:{}i:5;i:1254872;}i:35;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.826982;i:4;a:0:{}i:5;i:1255512;}i:37;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8393021;i:4;a:0:{}i:5;i:1271064;}i:38;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8430541;i:4;a:0:{}i:5;i:1272696;}i:40;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.84989;i:4;a:0:{}i:5;i:1274280;}i:41;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8505919;i:4;a:0:{}i:5;i:1275400;}i:43;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490857) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489417.8577609;i:4;a:0:{}i:5;i:1273256;}i:44;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490857) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489417.8657429;i:4;a:0:{}i:5;i:1273536;}i:47;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.865977;i:4;a:0:{}i:5;i:1275880;}i:48;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8662591;i:4;a:0:{}i:5;i:1276232;}i:52;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tugas_akhir`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8889041;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1427592;}i:53;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tugas_akhir`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8907859;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1477720;}i:55;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tugas_akhir' AND kcu.table_name = 'tugas_akhir'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.892;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1466168;}i:56;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tugas_akhir' AND kcu.table_name = 'tugas_akhir'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8925309;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1468456;}i:58;a:6:{i:0;s:302:"SELECT DISTINCT `tahun` FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `tahun` DESC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.9313059;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1684456;}i:59;a:6:{i:0;s:302:"SELECT DISTINCT `tahun` FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `tahun` DESC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.1527801;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1687056;}i:61;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2015') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.154449;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1701016;}i:62;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2015') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.3033681;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1702488;}i:64;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2014') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.3036439;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1706152;}i:65;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2014') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.513736;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1709928;}i:67;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2013') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.5141461;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1713320;}i:68;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2013') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.6453731;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1714792;}i:71;a:6:{i:0;s:315:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.6564801;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:97;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1793016;}i:72;a:6:{i:0;s:315:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.307343;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:97;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1794488;}i:74;a:6:{i:0;s:324:"SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `created_at` DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.307905;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1797760;}i:75;a:6:{i:0;s:324:"SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `created_at` DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.800508;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1964208;}i:77;a:6:{i:0;s:321:"SELECT * FROM `mahasiswa` WHERE `nrp` IN ('7611040037', '1310125022', '1303121030', '1303121057', '1303121046', '1303121024', '1303121037', '4103121051', '1303121059', '1210135030', '1303121039', '1303121007', '1210125014', '1210125002', '1303121051', '1303121041', '1303121035', '1303121008', '7610040008', '1303121025')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8048961;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2068720;}i:78;a:6:{i:0;s:321:"SELECT * FROM `mahasiswa` WHERE `nrp` IN ('7611040037', '1310125022', '1303121030', '1303121057', '1303121046', '1303121024', '1303121037', '4103121051', '1303121059', '1210135030', '1303121039', '1303121007', '1210125014', '1210125002', '1303121051', '1303121041', '1303121035', '1303121008', '7610040008', '1303121025')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8084719;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2080168;}i:80;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `mahasiswa`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8090751;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2082728;}i:81;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `mahasiswa`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.809834;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2088424;}i:83;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mahasiswa' AND kcu.table_name = 'mahasiswa'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8101079;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2095592;}i:84;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mahasiswa' AND kcu.table_name = 'mahasiswa'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8105149;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2097872;}i:86;a:6:{i:0;s:172:"SELECT * FROM `dibimbing` WHERE `id_tugas_akhir` IN (5471, 5470, 5468, 5469, 5467, 5465, 5466, 5463, 5464, 5460, 5461, 5462, 5459, 5458, 5456, 5457, 5454, 5455, 5450, 5451)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8221869;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2119904;}i:87;a:6:{i:0;s:172:"SELECT * FROM `dibimbing` WHERE `id_tugas_akhir` IN (5471, 5470, 5468, 5469, 5467, 5465, 5466, 5463, 5464, 5460, 5461, 5462, 5459, 5458, 5456, 5457, 5454, 5455, 5450, 5451)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.824666;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2136952;}i:89;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `dibimbing`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8459449;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2140144;}i:90;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `dibimbing`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.846813;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2144352;}i:92;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dibimbing' AND kcu.table_name = 'dibimbing'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8471191;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2151984;}i:93;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dibimbing' AND kcu.table_name = 'dibimbing'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8476329;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2154664;}i:95;a:6:{i:0;s:575:"SELECT * FROM `dosen` WHERE `nip` IN ('196608121993031005', '196012181988112001', '196407131989031005', '198905082015041001', '196405221991031003', '196207231991031002', '197912232003121002', '196106011987011001', '195701261990032001', '198311222010121004', '196602271994031001', '196511091991031006', '196702271994031001', '197409202002121001', '198902262015041003', '197210241999032001', '196811091991031012', '197903062002121002', '197708262008121002', '196411191988031001', '196404041989032002', '900258', '196101071990031001', '197404102008011014', '198903262015041001')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8604579;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2191904;}i:96;a:6:{i:0;s:575:"SELECT * FROM `dosen` WHERE `nip` IN ('196608121993031005', '196012181988112001', '196407131989031005', '198905082015041001', '196405221991031003', '196207231991031002', '197912232003121002', '196106011987011001', '195701261990032001', '198311222010121004', '196602271994031001', '196511091991031006', '196702271994031001', '197409202002121001', '198902262015041003', '197210241999032001', '196811091991031012', '197903062002121002', '197708262008121002', '196411191988031001', '196404041989032002', '900258', '196101071990031001', '197404102008011014', '198903262015041001')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.862113;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2203928;}i:98;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `dosen`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8626709;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2205488;}i:99;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `dosen`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8633909;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2209728;}i:101;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dosen' AND kcu.table_name = 'dosen'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.863694;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2217568;}i:102;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dosen' AND kcu.table_name = 'dosen'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8641479;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2219232;}i:105;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490859) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489419.963752;i:4;a:0:{}i:5;i:2016576;}i:106;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490859) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489419.9700251;i:4;a:0:{}i:5;i:2016856;}}}";s:2:"db";s:38441:"a:1:{s:8:"messages";a:52:{i:6;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.7244451;i:4;a:0:{}i:5;i:1075160;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.751754;i:4;a:0:{}i:5;i:1075480;}i:28;a:6:{i:0;s:41:"SELECT MAX(updated_at) FROM `tugas_akhir`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.7896349;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:29;s:8:"function";s:3:"max";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}}i:5;i:1232312;}i:29;a:6:{i:0;s:41:"SELECT MAX(updated_at) FROM `tugas_akhir`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.799787;i:4;a:1:{i:0;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:29;s:8:"function";s:3:"max";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}}i:5;i:1233376;}i:31;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8147759;i:4;a:0:{}i:5;i:1241008;}i:32;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.824048;i:4;a:0:{}i:5;i:1244088;}i:34;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.824661;i:4;a:0:{}i:5;i:1254872;}i:35;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.826982;i:4;a:0:{}i:5;i:1255512;}i:37;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8393021;i:4;a:0:{}i:5;i:1271064;}i:38;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8430541;i:4;a:0:{}i:5;i:1272696;}i:40;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.84989;i:4;a:0:{}i:5;i:1274280;}i:41;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8505919;i:4;a:0:{}i:5;i:1275400;}i:43;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490857) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489417.8577609;i:4;a:0:{}i:5;i:1273256;}i:44;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490857) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489417.8657429;i:4;a:0:{}i:5;i:1273536;}i:47;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.865977;i:4;a:0:{}i:5;i:1275880;}i:48;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532489417 AND `id`='u8pr8m9o42ouevd0dbr0v58pa1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8662591;i:4;a:0:{}i:5;i:1276232;}i:52;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tugas_akhir`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8889041;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1427592;}i:53;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `tugas_akhir`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8907859;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1477720;}i:55;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tugas_akhir' AND kcu.table_name = 'tugas_akhir'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.892;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1466168;}i:56;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tugas_akhir' AND kcu.table_name = 'tugas_akhir'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.8925309;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:63;s:8:"function";s:11:"__construct";s:5:"class";s:19:"yii\base\BaseObject";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:57;s:8:"function";s:6:"search";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1468456;}i:58;a:6:{i:0;s:302:"SELECT DISTINCT `tahun` FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `tahun` DESC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489417.9313059;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1684456;}i:59;a:6:{i:0;s:302:"SELECT DISTINCT `tahun` FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `tahun` DESC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.1527801;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:128;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1687056;}i:61;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2015') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.154449;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1701016;}i:62;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2015') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.3033681;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1702488;}i:64;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2014') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.3036439;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1706152;}i:65;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2014') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.513736;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1709928;}i:67;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2013') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.5141461;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1713320;}i:68;a:6:{i:0;s:312:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun`='2013') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.6453731;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"E:\!wwwroot\digilib\_protected\common\models\TugasAkhirSearch.php";s:4:"line";i:131;s:8:"function";s:5:"count";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:58;s:8:"function";s:12:"searchTahuns";s:5:"class";s:30:"common\models\TugasAkhirSearch";s:4:"type";s:2:"->";}}i:5;i:1714792;}i:71;a:6:{i:0;s:315:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015') `c`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489418.6564801;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:97;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1793016;}i:72;a:6:{i:0;s:315:"SELECT COUNT(*) FROM (SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015') `c`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.307343;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:97;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1794488;}i:74;a:6:{i:0;s:324:"SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `created_at` DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.307905;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1797760;}i:75;a:6:{i:0;s:324:"SELECT DISTINCT `tugas_akhir`.* FROM `tugas_akhir` INNER JOIN `mahasiswa` ON `tugas_akhir`.`nrp_mahasiswa` = `mahasiswa`.`nrp` INNER JOIN `dibimbing` ON `tugas_akhir`.`id` = `dibimbing`.`id_tugas_akhir` INNER JOIN `dosen` ON `dibimbing`.`nip_dosen` = `dosen`.`nip` WHERE `tahun` <= '2015' ORDER BY `created_at` DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.800508;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:1964208;}i:77;a:6:{i:0;s:321:"SELECT * FROM `mahasiswa` WHERE `nrp` IN ('7611040037', '1310125022', '1303121030', '1303121057', '1303121046', '1303121024', '1303121037', '4103121051', '1303121059', '1210135030', '1303121039', '1303121007', '1210125014', '1210125002', '1303121051', '1303121041', '1303121035', '1303121008', '7610040008', '1303121025')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8048961;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2068720;}i:78;a:6:{i:0;s:321:"SELECT * FROM `mahasiswa` WHERE `nrp` IN ('7611040037', '1310125022', '1303121030', '1303121057', '1303121046', '1303121024', '1303121037', '4103121051', '1303121059', '1210135030', '1303121039', '1303121007', '1210125014', '1210125002', '1303121051', '1303121041', '1303121035', '1303121008', '7610040008', '1303121025')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8084719;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2080168;}i:80;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `mahasiswa`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8090751;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2082728;}i:81;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `mahasiswa`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.809834;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2088424;}i:83;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mahasiswa' AND kcu.table_name = 'mahasiswa'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8101079;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2095592;}i:84;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'mahasiswa' AND kcu.table_name = 'mahasiswa'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8105149;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2097872;}i:86;a:6:{i:0;s:172:"SELECT * FROM `dibimbing` WHERE `id_tugas_akhir` IN (5471, 5470, 5468, 5469, 5467, 5465, 5466, 5463, 5464, 5460, 5461, 5462, 5459, 5458, 5456, 5457, 5454, 5455, 5450, 5451)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8221869;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2119904;}i:87;a:6:{i:0;s:172:"SELECT * FROM `dibimbing` WHERE `id_tugas_akhir` IN (5471, 5470, 5468, 5469, 5467, 5465, 5466, 5463, 5464, 5460, 5461, 5462, 5459, 5458, 5456, 5457, 5454, 5455, 5450, 5451)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.824666;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2136952;}i:89;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `dibimbing`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8459449;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2140144;}i:90;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `dibimbing`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.846813;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2144352;}i:92;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dibimbing' AND kcu.table_name = 'dibimbing'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8471191;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2151984;}i:93;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dibimbing' AND kcu.table_name = 'dibimbing'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8476329;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2154664;}i:95;a:6:{i:0;s:575:"SELECT * FROM `dosen` WHERE `nip` IN ('196608121993031005', '196012181988112001', '196407131989031005', '198905082015041001', '196405221991031003', '196207231991031002', '197912232003121002', '196106011987011001', '195701261990032001', '198311222010121004', '196602271994031001', '196511091991031006', '196702271994031001', '197409202002121001', '198902262015041003', '197210241999032001', '196811091991031012', '197903062002121002', '197708262008121002', '196411191988031001', '196404041989032002', '900258', '196101071990031001', '197404102008011014', '198903262015041001')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8604579;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2191904;}i:96;a:6:{i:0;s:575:"SELECT * FROM `dosen` WHERE `nip` IN ('196608121993031005', '196012181988112001', '196407131989031005', '198905082015041001', '196405221991031003', '196207231991031002', '197912232003121002', '196106011987011001', '195701261990032001', '198311222010121004', '196602271994031001', '196511091991031006', '196702271994031001', '197409202002121001', '198902262015041003', '197210241999032001', '196811091991031012', '197903062002121002', '197708262008121002', '196411191988031001', '196404041989032002', '900258', '196101071990031001', '197404102008011014', '198903262015041001')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.862113;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2203928;}i:98;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `dosen`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8626709;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2205488;}i:99;a:6:{i:0;s:30:"SHOW FULL COLUMNS FROM `dosen`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8633909;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2209728;}i:101;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dosen' AND kcu.table_name = 'dosen'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.863694;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2217568;}i:102;a:6:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'dosen' AND kcu.table_name = 'dosen'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532489419.8641479;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"E:\!wwwroot\digilib\_protected\frontend\views\tugas-akhir\index.php";s:4:"line";i:100;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"E:\!wwwroot\digilib\_protected\frontend\controllers\TugasAkhirController.php";s:4:"line";i:71;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:2219232;}i:105;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490859) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489419.963752;i:4;a:0:{}i:5;i:2016576;}i:106;a:6:{i:0;s:187:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}', 'u8pr8m9o42ouevd0dbr0v58pa1', 1532490859) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532489419.9700251;i:4;a:0:{}i:5;i:2016856;}}}";s:6:"assets";s:2236:"a:6:{s:27:"yii\widgets\ActiveFormAsset";a:9:{s:10:"sourcePath";s:57:"E:\!wwwroot\digilib\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.activeForm.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:35:"E:\!wwwroot\digilib\assets\b9ad77b8";s:7:"baseUrl";s:24:"/digilib/assets/b9ad77b8";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:57:"E:\!wwwroot\digilib\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:35:"E:\!wwwroot\digilib\assets\b9ad77b8";s:7:"baseUrl";s:24:"/digilib/assets/b9ad77b8";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:55:"E:\!wwwroot\digilib\_protected/vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:35:"E:\!wwwroot\digilib\assets\d437a42c";s:7:"baseUrl";s:24:"/digilib/assets/d437a42c";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:21:"yii\widgets\PjaxAsset";a:9:{s:10:"sourcePath";s:53:"E:\!wwwroot\digilib\_protected/vendor\bower/yii2-pjax";s:2:"js";a:1:{i:0;s:14:"jquery.pjax.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:35:"E:\!wwwroot\digilib\assets\e4b4ef07";s:7:"baseUrl";s:24:"/digilib/assets/e4b4ef07";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:24:"frontend\assets\AppAsset";a:9:{s:3:"css";a:0:{}s:2:"js";a:0:{}s:7:"depends";a:2:{i:0;s:31:"frontend\assets\Bootstrap4Asset";i:1;s:16:"yii\web\YiiAsset";}s:10:"sourcePath";N;s:8:"basePath";N;s:7:"baseUrl";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:31:"frontend\assets\Bootstrap4Asset";a:9:{s:10:"sourcePath";s:54:"E:\!wwwroot\digilib\_protected/vendor\bower/bootstrap4";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:2:"js";a:0:{}s:7:"depends";a:0:{}s:8:"basePath";s:35:"E:\!wwwroot\digilib\assets\765d16fa";s:7:"baseUrl";s:24:"/digilib/assets/765d16fa";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:93:"a:3:{s:5:"start";d:1532489417.6121981;s:3:"end";d:1532489419.9716811;s:6:"memory";i:2436984;}";s:4:"user";s:2:"N;";s:6:"router";s:2512:"a:1:{s:8:"messages";a:13:{i:12;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7868831;i:4;a:0:{}i:5;i:1192896;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7869239;i:4;a:0:{}i:5;i:1193472;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.786936;i:4;a:0:{}i:5;i:1194080;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7869461;i:4;a:0:{}i:5;i:1194648;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7869599;i:4;a:0:{}i:5;i:1195256;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:11:"tugas-akhir";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7869711;i:4;a:0:{}i:5;i:1196280;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:17:"tugas-akhir/index";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.787014;i:4;a:0:{}i:5;i:1196864;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:18:"tugas-akhir/create";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7870259;i:4;a:0:{}i:5;i:1197448;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:25:"tugas-akhir/view/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7870369;i:4;a:0:{}i:5;i:1198040;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:27:"tugas-akhir/update/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7870469;i:4;a:0:{}i:5;i:1198632;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:27:"tugas-akhir/delete/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.787056;i:4;a:0:{}i:5;i:1199224;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:18:"tugas-akhir/<slug>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.787066;i:4;a:0:{}i:5;i:1199808;}i:24;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532489417.7870729;i:4;a:0:{}i:5;i:1200080;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5b57eec9b8053";s:3:"url";s:25:"http://localhost/digilib/";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";d:1532489417.517;s:10:"statusCode";i:200;s:8:"sqlCount";i:26;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
